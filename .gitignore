@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
-bin/
+
+#Ariel
+*.classpath
+*.project
+/bin
+
 class/
 # Log file
 *.log
